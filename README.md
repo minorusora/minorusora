@@ -1,4 +1,4 @@
-#Merhaba! 👋
+# Merhaba! 👋
 
 Benim adım minorusora ve burada SA:MP, Discord Botları geliştirmeleri üzerine yaptığım çalışmaları paylaşıyorum. Yazılım geliştirme tutkum, oyun modifikasyonları ve bot programlama ile birleşiyor, bu da beni sürekli olarak yenilikçi ve eğlenceli projeler yaratmaya teşvik ediyor.
 
